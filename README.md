@@ -4,4 +4,4 @@
 
 <n>Proyecto De Curso de graduación, Universidad Mariano Galvez.</n>
 
-![](https://www.google.com/url?sa=i&url=http%3A%2F%2Fproyectodecalculo1.blogspot.com%2F2016%2F06%2Fingenieria-en-sistemas-tasas.html&psig=AOvVaw30pye2QN610GWMkaOAZuKP&ust=1633830435498000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLiV2vGavPMCFQAAAAAdAAAAABAD)
+![](http://3.bp.blogspot.com/-PdOifBOQw10/V0_Z4tJPjHI/AAAAAAAAAEk/tzYJ-R583-0rfFpjoj1TnxzvBgK94ilWgCK4B/s1600/INGENIERIA%2BEN%2BSISTEMAS%2BUMG%2B-%2Bcopia.jpg)
