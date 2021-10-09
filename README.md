@@ -26,6 +26,12 @@ Usuario: selmedy@hotmail.com
 
 Contraseña: soyyo123
 
+<h3>Credenciales de Doctor en linea y local:</h3>
+
+Usuario: juliomorales@outlook.com
+
+Contraseña: julio123
+
 <n><h2>¿Deseas utilizarlo de manera local?</n></h2>
 
 Claro que si, debes seguir algunos pasos para poder instalarlo.
